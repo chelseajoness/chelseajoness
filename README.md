@@ -1,3 +1,2 @@
-# chelseajoness
-<img src=/Users/chelseajones/Desktop/ChelseaJoness/images/github-header-image.png>
-
+# Hi, I am Chelsea Jones
+<img src=/images/github-header-image.png>
